@@ -1,1 +1,1 @@
-module test01
+module github.com/moveman/test01
